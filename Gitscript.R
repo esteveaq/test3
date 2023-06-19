@@ -94,7 +94,7 @@ print(g2)
 g3 <-           
   a1 %>%
   ggplot(aes(x = date)) +
-  geom_histogram(bins = 15)
+  geom_histogram(bins = 10)
 print(g3)
 
 
