@@ -97,8 +97,5 @@ g3 <-
   geom_histogram(bins = 10)
 print(g3)
 
-#add a comment
 
-
-
-  
+#Making a change by doing a comment (UI version)
